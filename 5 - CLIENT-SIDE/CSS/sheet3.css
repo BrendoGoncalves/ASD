@@ -1,0 +1,17 @@
+body{
+  background: rgb(20,200,220);
+  font-family: Arial;
+}
+h1{
+  color: rgba(255, 0, 0, 0.5);
+  font-size: 20;
+}
+div{
+  background: yellow;
+  width: 150px;
+  height: 150px;
+  padding: 20px;
+  margin: 10px;
+  border-style: solid;
+  border-width: 5px;
+}

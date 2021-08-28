@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulário</title>
+    </head>
+    <body>
+      <form action="http://www.examplo.com/login.php">
+        <!--<form action="http://www.examplo.com/profile.php">-->
+        <fieldset>
+          <legend>Dados</legend>
+          <p><label>Username:
+            <input type="text" name="username" size="15" maxlength="20"/></label>
+          </p>
+          <p>
+            <input id="linux"type="radio" name="so" value="linux" checked="checked"/>
+            <label for="linux>">Linux</label>
+            <input type="radio" name="so" value="windows"/>Windows
+            <input type="radio" name="so" value="mcos"/>McOs
+            <!--Nome tem que ser igual-->
+          </p>
+          <p><label for="username">Data de Nasciment:</label>
+            <input type="date" name="depart"/>
+            <input type="submit" name="enviar"/>
+          </p>
+          <p><label for="username">Email:</label>
+            <input type="email" name="depart"/>
+            <input type="submit" name="enviar"/>
+          </p>
+          <p><label for="username">URL:</label>
+            <input type="url" name="depart"/>
+            <input type="submit" name="enviar"/>
+          </p>
+        </fieldset>
+      </form>
+    </body>
+</html>
