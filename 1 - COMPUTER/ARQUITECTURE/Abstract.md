@@ -3,6 +3,7 @@
 Computador Definição: Máquina que executa algoritmos para gerar algum resultado.
 
 Arquitetura: Visíveis ao programador, impacto direto na execução lógica.
+
 Organização: Unidades operacionais e suas interconexoções.
 
 *(Família de computadores -> Arquiterua Igual - Organização Diferente)*
@@ -40,3 +41,55 @@ Organização: Unidades operacionais e suas interconexoções.
 * AC (Acumulator)
 * MQ (Multiplier Quotient)
 
+**Arquiteture de Processadores**
+* CISC (Complex Instruction Set Computers)
+ *Exemplo: Intel x86*
+* RISC (Reduced Instruction Set Computers)
+ *Exemplo: ARM*
+
+**Memória IAS**
+* Palavra (Exemplo: 40 bits)
+   * Palavra de número: 1 bit de sinal + 39 bit valor
+   * Palavra de intrução: 2 instruções de 20 bits (8 bits opcode + 12 bits endereço)
+
+**Memória**
+1. Registrador
+2. Memória Cache (L1, L2, L3)
+3. Memória Principal
+   * Memória RAM (Random Access Memory) - DRAM - SRAM
+   * Memória ROM (Read Only Memory) - BIOS (Basci Input and Output System), SETUP, POST (Power On Self Test)
+4. Memória Secundária
+   * HD (Hard Disk)
+   * SSD (Solid-State Drive)
+   * CD/DVD
+   * Pen-Drive
+
+**Barramento**
+* Barramento de Dados
+* Barramento de Endereço
+* Barramento de Controle
+
+**Instrução**
+* Palavra = opcode + operando
+* Ciclo = Fecth Cycle + Execution Cycle
+
+**Dispositivos I/O**
+1. Entrada
+   * Teclado
+   * Mouse
+   * Microfone
+   * Câmera
+2. Saída
+   * Monitor
+   * Fone
+   * Impressora
+3. Híbrido
+   * Headset
+   * Multifuncional
+   * Tela TouchScreen
+
+**Clock**
+
+**MIPS**
+
+**Paralelismo**
