@@ -1,4 +1,4 @@
-#Organização e Arquitetura de Computadores
+# Organização e Arquitetura de Computadores
 
 Computador Definição: Máquina que executa algoritmos para gerar algum resultado.
 
@@ -6,7 +6,7 @@ Arquitetura: Visíveis ao programador, impacto direto na execução lógica.
 
 Organização: Unidades operacionais e suas interconexoções.
 
-*(Família de computadores -> Arquiterua Igual - Organização Diferente)*
+*(Família de computadores -> Arquitetura Igual - Organização Diferente)*
 
 **Funcional**
 1. Processamento de dados
