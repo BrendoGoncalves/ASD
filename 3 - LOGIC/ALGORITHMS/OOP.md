@@ -1,6 +1,6 @@
-#Programação Orientada a Objetos
+# Programação Orientada a Objetos
 
-*Object-Oriented Programming*
+### Object-Oriented Programming
 
 ![Principles](https://i.pinimg.com/originals/5f/67/c8/5f67c8abadd2be33ce9063e043663892.jpg)
 
@@ -10,15 +10,16 @@
 
 **Classe**
 * Atributos e Métodos Comuns (Forma)
+
 *Instanciar -> Objeto*
  
 **Abstração**
 Separar atributos e métodos relevantes
 
 **Visibilidade**
-* + Público
-* - Privado
-* # Protegido
+* Público
+* Privado
+* Protegido
 
 **Métodos**
 * Assessores
@@ -35,24 +36,28 @@ Separar atributos e métodos relevantes
 Implementação
 
 **Relacionamento**
-Agregação
-Objeto Simples
-Objeto Composto
+* Associação
+* Agregação
+   * Objeto Simples
+   * Objeto Composto
+* Composição
 
-Herança
+**Herança**
 
-Herança de Implementação
-Para Diferença
-Extends
+* Herança de Implementação
+* Para Diferença
+*Extends*
 
-Classe Abstrata
-Método Abstrato
-Classe Final
-Método Final
-Polimorfismo
-Sobreposição
-Sobrecarga
+**Tabela**
+* Classe Abstrata
+* Método Abstrato
+* Classe Final
+* Método Final
 
-Linguagem UML
+**Polimorfismo**
+* Sobreposição
+* Sobrecarga
+
+*Linguagem UML*
 
 
