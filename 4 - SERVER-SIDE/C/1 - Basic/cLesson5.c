@@ -7,7 +7,7 @@ int main(void){
 	float n2 = 2.5;
 	double n3 = 73940382053617;
 	
-	printf("%c %i %f %f", lt, n1, n2, n3);
+	printf("%c %i %f %lf", lt, n1, n2, n3);
 	
 	return 0;
 }
