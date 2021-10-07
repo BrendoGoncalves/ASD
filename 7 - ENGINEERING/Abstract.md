@@ -11,6 +11,7 @@ Forma organizada e sistemática de desenvolver softwares
 Software = programa de computador + documentação
 
 Processo de software -> Produto de Software
+
 *Produto de software é um software que pode ser comercializado*
 
 **Principais Atributos**
