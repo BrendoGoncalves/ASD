@@ -6,6 +6,7 @@ int main(void){
 	char b;
 	
 	int i = 0;
+
 	do{
 		b = getchar();
 		a[i] = b;
@@ -14,7 +15,7 @@ int main(void){
 	
 	a[i] = '\0';
 	
-	printf("%s ", a);
+	printf("Dados capturado: %s ", a);
 	
 	return 0;
 }
