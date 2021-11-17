@@ -1,0 +1,17 @@
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt-get install mysql-server mysql-client
+
+sudo service mysql restart
+
+/* Vizualizar o arquivo de configuração do MySql */
+
+vi /etc/mysql/my.cnf
+:q
+
+/* Alterar a senha do MySql */
+sudo mysqladmin -u root password
+
+mysql -u root -p
+
