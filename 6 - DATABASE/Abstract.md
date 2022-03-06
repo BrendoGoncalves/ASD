@@ -1,6 +1,8 @@
 # Banco de Dados
 *Database*
 
+*Dados -> Informação -> Metadados*
+
 **Tipos**
 
 * Relacionais
@@ -38,4 +40,26 @@
 
 *DER (Diagrama Entidade Relacionamento)*
 
-Entidades - Atributos - Relacionametos
+1. Entidades
+  * Tabelas (Realação)
+  * Linhas(Tuplas/Registros) + Colunas (Campos)
+2. Atributos
+  * Simples
+  * Composto
+  * Multivalorado
+  * Determinante
+  * Identificador (Chave)
+3. Relacionametos
+
+  *Grau*
+  * Unário
+     * Recursivo
+  * Binário
+  * Ternário
+  
+  *Cardinalidade*
+  * 1..1
+  * 1..N
+  * 0..1
+  * 0..N
+  * N..M (Nova Entidade)
