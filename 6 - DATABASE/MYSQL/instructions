@@ -15,3 +15,25 @@ sudo mysqladmin -u root password
 
 mysql -u root -p
 
+1. Login to MySQL as root (sudo will bypass password prompt)
+
+$ sudo mysql -u root
+
+2. Change to the mysql database and set the plugin to mysql_native_password for the root user.
+
+mysql> USE mysql;
+mysql> UPDATE user SET plugin='mysql_native_password' WHERE User='root';
+mysql> FLUSH PRIVILEGES;
+
+3. You have to change the root password for this to work. Even just specifying the current password is fine too, but this command must be executed:
+
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password_here';
+mysql> exit;
+
+4. Lastly, restart MySQL for the changes to take effect.
+
+$ sudo systemctl restart mysql
+
+5. You can now login to MySQL root as normal, and will no longer encounter the error.
+
+$ mysql -u root -p
