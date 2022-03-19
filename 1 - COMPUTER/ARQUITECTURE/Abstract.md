@@ -20,7 +20,7 @@ Organização: Unidades operacionais e suas interconexoções.
 3. I/O (Input/Output)
 4. BUS
 
-![Modelo Estrutural](img1.png)
+![Estrutural](img1.png)
 
 **CPU**
 1. CU (Control Unit)
