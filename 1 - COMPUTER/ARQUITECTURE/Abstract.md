@@ -83,9 +83,9 @@ Organização: Unidades operacionais e suas interconexoções.
    * Tela TouchScreen
 
 **Arquiteture de Processadores**
-* CISC (Complex Instruction Set Computers)
+* CISC (Complex Instruction Set Computing)
  *Exemplo: Intel x86*
-* RISC (Reduced Instruction Set Computers)
+* RISC (Reduced Instruction Set Computing)
  *Exemplo: ARM*
 
 **Memória IAS**
