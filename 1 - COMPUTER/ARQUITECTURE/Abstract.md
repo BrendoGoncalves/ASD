@@ -128,3 +128,5 @@ Medida de velocidade de processadores.
 3. Circuitos Integrados
 4. Microprocessadores (Multicore) e Memórias Semicondutoras 
 5. Técnicas de Processamento
+
+*Author: Brendo Oliveira - Images: Computer Organization and Architecture - William Stalling*
