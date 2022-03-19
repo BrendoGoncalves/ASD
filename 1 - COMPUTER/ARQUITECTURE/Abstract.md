@@ -46,6 +46,7 @@ Organização: Unidades operacionais e suas interconexoções.
 * PC (Programm Counter)
 * AC (Acumulator)
 * MQ (Multiplier Quotient)
+
 ![CPU](img4.png)
 
 **Arquiteture de Processadores**
