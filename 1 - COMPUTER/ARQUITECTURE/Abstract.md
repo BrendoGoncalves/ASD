@@ -27,6 +27,8 @@ Organização: Unidades operacionais e suas interconexoções.
 4. Barramentos
 
 **Máquina de Van Neumann**
+
+*Programa Armazenado*
 * Memória principal armazena dados e instruções
 * Possui ALU para operar dados binários
 * Possui CU que interpreta instruções na memória e as executa.
