@@ -96,7 +96,10 @@ Organização: Unidades operacionais e suas interconexoções.
 
 **Instrução**
 * Palavra = opcode + operando
-* Ciclo = Fecth Cycle + Execution Cycle
+* Instrução = Busa (Fecth Cycle ) + Decodificação + Execução (Execution Cycle)
+* Instrução != Ciclo
+
+(Alguns microcontroladores executam um ciclo de instrução a cada 4 ciclos de clock.)
 
 **Clock**
 
@@ -123,4 +126,5 @@ Medida de velocidade de processadores.
 1. Válvulas
 2. Transistores
 3. Circuitos Integrados
-4. Microprocessadores e Memórias Semicondutoras 
+4. Microprocessadores (Multicore) e Memórias Semicondutoras 
+5. Técnicas de Processamento
