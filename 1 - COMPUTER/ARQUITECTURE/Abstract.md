@@ -34,6 +34,8 @@ Organização: Unidades operacionais e suas interconexoções.
 * Possui CU que interpreta instruções na memória e as executa.
 * I/O operadas pela CU
 
+![Modelo Van Neumann](img1.png)
+
 **Processador**
 * MBR (Memory Buffer Register)
 * MAR (Memory Address Register)
