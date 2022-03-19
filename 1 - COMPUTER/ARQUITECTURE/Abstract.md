@@ -20,6 +20,8 @@ Organização: Unidades operacionais e suas interconexoções.
 3. I/O (Input/Output)
 4. BUS
 
+![Modelo Estrutural](img1.png)
+
 **CPU**
 1. CU (Control Unit)
 2. ALU (Arithmetic Logic Unit)
@@ -34,7 +36,7 @@ Organização: Unidades operacionais e suas interconexoções.
 * Possui CU que interpreta instruções na memória e as executa.
 * I/O operadas pela CU
 
-![Modelo Van Neumann](img1.png)
+![Modelo Van Neumann](img2.png)
 
 **Processador**
 * MBR (Memory Buffer Register)
@@ -44,6 +46,7 @@ Organização: Unidades operacionais e suas interconexoções.
 * PC (Programm Counter)
 * AC (Acumulator)
 * MQ (Multiplier Quotient)
+![CPU](img4.png)
 
 **Arquiteture de Processadores**
 * CISC (Complex Instruction Set Computers)
@@ -55,6 +58,7 @@ Organização: Unidades operacionais e suas interconexoções.
 * Palavra (Exemplo: 40 bits)
    * Palavra de número: 1 bit de sinal + 39 bit valor
    * Palavra de intrução: 2 instruções de 20 bits (8 bits opcode + 12 bits endereço)
+![Palavra](img3.png)
 
 **Memória**
 1. Registrador
