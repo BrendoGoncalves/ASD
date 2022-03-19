@@ -99,22 +99,27 @@ Organização: Unidades operacionais e suas interconexoções.
 * Ciclo = Fecth Cycle + Execution Cycle
 
 **Clock**
+
 Comanda o ciclo através do pulso do clock.
 Hz ou Ciclos/s
 1 GHz = 1 bilhão de pulsos por segundo.
 
 **MIPS**
+
 *Millions of Instructions Per Second*
 
 Medida de velocidade de processadores.
 
 **Técnicas de Processamento**
+
 * Pipeline = Várias intruções ao mesmo tempo
+
 *Paralelismo*
 * Superescalar = Várias pipelines ao mesmo tempo
 
 
 **Linha do Tempo**
+
 1. Válvulas
 2. Transistores
 3. Circuitos Integrados
