@@ -62,6 +62,8 @@ Organização: Unidades operacionais e suas interconexoções.
    * CD/DVD
    * Pen-Drive
 
+![Memory](img5.png)
+
 **Barramento**
 * Barramento de Dados
 * Barramento de Endereço
@@ -104,7 +106,9 @@ Organização: Unidades operacionais e suas interconexoções.
 **Clock**
 
 Comanda o ciclo através do pulso do clock.
+
 Hz ou Ciclos/s
+
 1 GHz = 1 bilhão de pulsos por segundo.
 
 **MIPS**
@@ -120,6 +124,8 @@ Medida de velocidade de processadores.
 *Paralelismo*
 * Superescalar = Várias pipelines ao mesmo tempo
 
+![Technique](img6.png)
+
 
 **Linha do Tempo**
 
@@ -129,4 +135,5 @@ Medida de velocidade de processadores.
 4. Microprocessadores (Multicore) e Memórias Semicondutoras 
 5. Técnicas de Processamento
 
-*Author: Brendo Oliveira - Images: Computer Organization and Architecture - William Stalling*
+*Author: Brendo Oliveira - 
+Images: Computer Organization and Architecture - William Stalling + Modern Operating System - Andrew Tanenbaum*
