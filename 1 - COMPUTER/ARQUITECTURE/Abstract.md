@@ -62,8 +62,8 @@ Organização: Unidades operacionais e suas interconexoções.
    * CD/DVD
    * Pen-Drive
 
-![Memory](img5.png)
-![Cache](img6.png)
+![Memories](img5.png)
+![Caches](img6.png)
 
 **Barramento**
 * Barramento de Dados
