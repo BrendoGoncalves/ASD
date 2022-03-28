@@ -63,6 +63,7 @@ Organização: Unidades operacionais e suas interconexoções.
    * Pen-Drive
 
 ![Memory](img5.png)
+![Cache](img6.png)
 
 **Barramento**
 * Barramento de Dados
@@ -124,7 +125,7 @@ Medida de velocidade de processadores.
 *Paralelismo*
 * Superescalar = Várias pipelines ao mesmo tempo
 
-![Technique](img6.png)
+![Technique](img7.png)
 
 
 **Linha do Tempo**
