@@ -62,6 +62,7 @@ Organização: Unidades operacionais e suas interconexoções.
    * CD/DVD
    * Pen-Drive
 
+
 ![Memo](img5.png)
 
 ![Cach](img6.png)
