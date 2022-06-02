@@ -32,3 +32,15 @@
   * Editor de Texto
   * Reprodutor de Música
   * Exibidor de Imagem
+
+**Chamada de Sistema**
+
+*System Call*
+
+**Processo**
+*Process*
+
+**Threads**
+
+**Posix**
+
