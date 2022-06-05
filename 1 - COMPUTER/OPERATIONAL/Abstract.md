@@ -65,13 +65,51 @@ Hardware <- Sistema Operacional -> Software
 * Monousuário
 * Multiusuário
 
+**Conceitos**
+1. Processo (*Process*)
+  * Processo Filho -> Árvore de Processos
+  * Comunicação entre Processos
+  * UID (User Identification)
+  * GID (Group Identification)
+  * PID (Process Identification)
+  * Pipe
+2. Espaços de Endereçamento
+3. Arquivos
+   * Sistema de Arquivos
+   * Diretório
+   * Permissão
+   * Monstagem de Sistemas de Arquivos
+
 **Chamada de Sistema**
 
 *System Call*
 
+Processo -> Chamada -> Núcleo -> Chamada -> Processo
+
 **Processo**
-*Process*
+Programa em execução
+* Criar
+* Apagar
+* Ler
+* Escrever
+* Abrir
+* Fechar
 
 **Threads**
+* Menor unidade que pode ser processada
+* 1 Processo = N Threads
+* ![Camadas](img8.png)
 
+**Escalonamento**
+Preferêmcia de execução de processos ou threads
+
+**Arquitetura do Kernel**
+
+*Kernel = Núcleo*
+* Monolítico
+* Sistema de Camadas
+* Micronúcleo
+* Sistema Cliente-Servidor
+* Máquinas Virtuais
+* Exonúcleos
 
