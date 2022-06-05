@@ -80,10 +80,10 @@ Hardware <- Sistema Operacional -> Software
 2. Espaços de Endereçamento
 
 3. Arquivos
-   * Sistema de Arquivos
-   * Diretório
-   * Permissão
-   * Monstagem de Sistemas de Arquivos
+  * Sistema de Arquivos
+  * Diretório
+  * Permissão
+  * Monstagem de Sistemas de Arquivos
 
 
 ![Diretório](img4.png)
@@ -116,7 +116,7 @@ Programa em execução
 * 1 Processo = N Threads
 
 
-* ![Threads](img8.png)
+![Threads](img8.png)
 
 **Escalonamento**
 
@@ -132,4 +132,3 @@ Preferêmcia de execução de processos ou threads
 * Sistema Cliente-Servidor
 * Máquinas Virtuais
 * Exonúcleos
-
