@@ -133,4 +133,4 @@ Preferêmcia de execução de processos ou threads
 * Máquinas Virtuais
 * Exonúcleos
 
-Images: Modern Operating System - Andrew Tanenbaum*
+*Author: Brendo Oliveira - Images: Modern Operating System - Andrew Tanenbaum*
