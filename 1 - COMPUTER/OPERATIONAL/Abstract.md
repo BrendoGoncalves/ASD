@@ -1,21 +1,6 @@
 # Sistema Operacional
 
-**Tipos**
-* Monotarefa (Monoprogramável)
-* Multitarefa (Multiprogramável)
- *Timesharing*
-* Multiprocessadores
-
-**Modo**
-* Monousuário
-* Multiusuário
-
-**Funções**
-1. Abstração
-2. Gerenciamento
-
-
-![Abstração](img2.png)
+Hardware <- Sistema Operacional ->Software
 
 **Divisão**
 1. Modo Usuário
@@ -24,9 +9,12 @@
 
 ![Camadas](img1.png)
 
-**Interação**
-1. GUI (Graphical User Interface)
-2. CLI (Comand Line Interface) - Shell
+**Funções**
+1. Abstração
+2. Gerenciamento
+
+![Abstração](img2.png)
+
 
 **Softwares**
 1. Sistema
@@ -43,6 +31,10 @@
   * Editor de Texto
   * Reprodutor de Música
   * Exibidor de Imagem
+
+**Interação**
+1. GUI (Graphical User Interface)
+2. CLI (Comand Line Interface) - Shell
 
 **Sistemas Principais**
 1. CTSS (Compatible Time Sharing System)
@@ -61,7 +53,17 @@
 6. MS-DOS (Microsfot)
 
 
-![Timeline](img3.png)
+![Timeline](img3.jpg)
+
+**Tipos**
+* Monotarefa (Monoprogramável)
+* Multitarefa (Multiprogramável)
+ *Timesharing*
+* Multiprocessadores
+
+**Modo**
+* Monousuário
+* Multiusuário
 
 **Chamada de Sistema**
 
