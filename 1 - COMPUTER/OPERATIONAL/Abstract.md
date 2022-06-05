@@ -73,13 +73,14 @@ Hardware <- Sistema Operacional -> Software
   * GID (Group Identification)
   * PID (Process Identification)
   * Pipe
+![Pipe](img6.png)
 2. Espaços de Endereçamento
 3. Arquivos
    * Sistema de Arquivos
    * Diretório
-![Diretório](img4.png)
    * Permissão
    * Monstagem de Sistemas de Arquivos
+![Diretório](img4.png)
 ![Montagem](img5.png)
 
 **Chamada de Sistema**
@@ -96,11 +97,12 @@ Programa em execução
 * Escrever
 * Abrir
 * Fechar
+![Estados](img7.png)
 
 **Threads**
 * Menor unidade que pode ser processada
 * 1 Processo = N Threads
-* ![Camadas](img8.png)
+* ![Threads](img8.png)
 
 **Escalonamento**
 Preferêmcia de execução de processos ou threads
