@@ -3,6 +3,7 @@
 **Tipos**
 * Monotarefa (Monoprogramável)
 * Multitarefa (Multiprogramável)
+ *Timesharing*
 * Multiprocessadores
 
 **Modo**
@@ -17,6 +18,10 @@
 1. Modo Usuário
 2. Modo Núcleo (Supervisor)
 
+**Interação**
+1. GUI (Graphical User Interface)
+2. CLI (Comand Line Interface) - Shell
+3. 
 **Softwares**
 1. Sistema
   * OS.
@@ -33,6 +38,22 @@
   * Reprodutor de Música
   * Exibidor de Imagem
 
+**Sistemas Principais**
+1. CTSS (Compatible Time Sharing System)
+2. MULTICS (Multiplexed Information and Computer Service)
+3. UNIX
+   *POSIX (Portable Operate System Interface)*
+5. MINIX
+6. Linux
+
+**Sistemas em Discos**
+1. CP/M (Control Program for Microcomputers)
+2. DOS (Disk Operating System)
+3. XENIX -> UNIX (Microsoft)
+4. Lisa (Apple)
+5. Macintosh (Apple)
+6. MS-DOS (Microsfot)
+
 **Chamada de Sistema**
 
 *System Call*
@@ -42,5 +63,4 @@
 
 **Threads**
 
-**Posix**
 
