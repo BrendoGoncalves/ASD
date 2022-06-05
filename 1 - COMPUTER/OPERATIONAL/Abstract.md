@@ -58,6 +58,7 @@ Hardware <- Sistema Operacional -> Software
 **Tipos**
 * Monotarefa (Monoprogramável)
 * Multitarefa (Multiprogramável)
+
  *Timesharing*
 * Multiprocessadores
 
@@ -73,14 +74,20 @@ Hardware <- Sistema Operacional -> Software
   * GID (Group Identification)
   * PID (Process Identification)
   * Pipe
+ 
 ![Pipe](img6.png)
+
 2. Espaços de Endereçamento
+
 3. Arquivos
    * Sistema de Arquivos
    * Diretório
    * Permissão
    * Monstagem de Sistemas de Arquivos
+
+
 ![Diretório](img4.png)
+
 ![Montagem](img5.png)
 
 **Chamada de Sistema**
@@ -90,26 +97,35 @@ Hardware <- Sistema Operacional -> Software
 Processo -> Chamada -> Núcleo -> Chamada -> Processo
 
 **Processo**
+
 Programa em execução
+
 * Criar
 * Apagar
 * Ler
 * Escrever
 * Abrir
 * Fechar
+
+
 ![Estados](img7.png)
 
 **Threads**
+
 * Menor unidade que pode ser processada
 * 1 Processo = N Threads
+
+
 * ![Threads](img8.png)
 
 **Escalonamento**
+
 Preferêmcia de execução de processos ou threads
 
 **Arquitetura do Kernel**
 
 *Kernel = Núcleo*
+
 * Monolítico
 * Sistema de Camadas
 * Micronúcleo
