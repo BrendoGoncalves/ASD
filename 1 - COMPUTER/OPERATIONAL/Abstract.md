@@ -77,8 +77,10 @@ Hardware <- Sistema Operacional -> Software
 3. Arquivos
    * Sistema de Arquivos
    * Diretório
+   ![Diretório](img4.png)
    * Permissão
    * Monstagem de Sistemas de Arquivos
+   ![Montagem](img5.png)
 
 **Chamada de Sistema**
 
