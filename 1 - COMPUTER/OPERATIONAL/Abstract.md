@@ -132,3 +132,5 @@ Preferêmcia de execução de processos ou threads
 * Sistema Cliente-Servidor
 * Máquinas Virtuais
 * Exonúcleos
+
+Images: Modern Operating System - Andrew Tanenbaum*
