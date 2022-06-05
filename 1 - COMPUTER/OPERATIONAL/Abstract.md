@@ -14,14 +14,20 @@
 1. Abstração
 2. Gerenciamento
 
+
+![Abstração](img2.png)
+
 **Divisão**
 1. Modo Usuário
 2. Modo Núcleo (Supervisor)
 
+
+![Camadas](img1.png)
+
 **Interação**
 1. GUI (Graphical User Interface)
 2. CLI (Comand Line Interface) - Shell
-3. 
+
 **Softwares**
 1. Sistema
   * OS.
@@ -53,6 +59,9 @@
 4. Lisa (Apple)
 5. Macintosh (Apple)
 6. MS-DOS (Microsfot)
+
+
+![Timeline](img3.png)
 
 **Chamada de Sistema**
 
