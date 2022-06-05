@@ -1,6 +1,6 @@
 # Sistema Operacional
 
-Hardware <- Sistema Operacional ->Software
+Hardware <- Sistema Operacional -> Software
 
 **Divisão**
 1. Modo Usuário
@@ -53,7 +53,7 @@ Hardware <- Sistema Operacional ->Software
 6. MS-DOS (Microsfot)
 
 
-![Timeline](img3.jpg)
+![Timeline](img3.png)
 
 **Tipos**
 * Monotarefa (Monoprogramável)
